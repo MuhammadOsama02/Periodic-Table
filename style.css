@@ -11,5 +11,38 @@ td{
     border: none;
 }
 .heading{
-    background-color: yellow;
+    background-color: pink;
+    width: 50vw;
+    height: 10vh;
+    padding: 1%;
+}
+.color_1{
+    background-color: salmon;
+}
+.color_2{
+    background-color: violet;
+}
+.color_3{
+    background-color: cornflowerblue;
+}
+.color_4{
+    background-color: sandybrown;
+}
+.color_5{
+    background-color: yellowgreen;
+}
+.color_6{
+   background-color: antiquewhite; 
+}
+.color_7{
+    background-color: lightblue;
+}
+.color_8{
+    background-color: saddlebrown;
+}
+.color_9{
+    background-color: aliceblue;
+}
+.color_10{
+    background-color: white;
 }
